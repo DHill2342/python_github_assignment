@@ -9,6 +9,6 @@ python3 app.py
 
 Example Output:
 How much did we make in sales today? 700
-If we make that each day, we'll make $ 4900 this week.
+If we make that each day, we'll make $4900 this week.
 
 
